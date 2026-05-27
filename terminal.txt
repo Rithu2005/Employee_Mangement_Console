@@ -1,0 +1,9 @@
+javac -cp ".;mysql-connector-j-9.7.0.jar" EmployeeJDBC.java
+java -cp ".;mysql-connector-j-9.7.0.jar" EmployeeJDBC
+
+javac -cp ".;mysql-connector-j-9.7.0.jar" EmployeeConnection.java
+java -cp ".;mysql-connector-j-9.7.0.jar" EmployeeConnection
+
+
+javac -cp ".;mysql-connector-j-9.7.0.jar" employeee.java
+java -cp ".;mysql-connector-j-9.7.0.jar" employeee
